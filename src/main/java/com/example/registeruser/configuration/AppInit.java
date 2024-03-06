@@ -1,4 +1,4 @@
-package com.example.validateinforuser.configuration;
+package com.example.registeruser.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
